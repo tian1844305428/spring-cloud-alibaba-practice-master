@@ -1,13 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75e40a41-9b0f-4c24-b6ff-a6462b480e2c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/alibaba" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../apache-maven-3.6.3/res" />
         <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../apache-maven-3.5.4/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1pdbUmHmKLxMAvEO03XDhDxRIUi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../alibaba" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/nacosconfig" />
+      <recent name="$PROJECT_DIR$/business-common-api" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/chaptereight/use-spring-cloud-alibaba-rocketmq-transaction-message/consume-transaction-message/src/main/resources" />
+      <recent name="$PROJECT_DIR$/chapterthree/replace-table-spring-cloud-alibaba/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.alibaba.cloud.youxia.config" />
+      <recent name="com.alibaba.cloud.youxia.application" />
+      <recent name="com.alibaba.cloud.youxia.controller" />
+      <recent name="com.alibaba.cloud.youxia.consumer" />
+      <recent name="com.alibaba.cloud.youxia" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UserServerApplication (1)">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -19,5 +125,863 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AnalogGatewayTrafficServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="analog-gateway-traffic-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.AnalogGatewayTrafficServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="configuring-priorities-load-nacos" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="optimistic-locking-spring-cloud-alibaba" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.cloud.youxia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="example12" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeataSpringCloudAlibabaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="beata-spring-cloud-alibaba-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.BeataSpringCloudAlibabaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlueGreenAlibabaGatewayServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="blue-green-gateway-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.BlueGreenAlibabaGatewayServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlueGreenGatewayTrafficServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="blue-green-gateway-traffic-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.BlueGreenGatewayTrafficServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlueGreenGoodServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="blue-green-good-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.BlueGreenGoodServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlueGreenLogisticsServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="blue-green-logistics-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.BlueGreenLogisticsServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlueGreenOrderServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="blue-green-order-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.BlueGreenOrderServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlueGreenTradeServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="blue-green-trade-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.BlueGreenTradeServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CallDistributeServerAlibabaServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="call-distribute-server-cloud-alibaba" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.CallDistributeServerAlibabaServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DynamicConfigServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dynamic-routing-cloud-alibaba" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.DynamicConfigServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElkFrontApiServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="elk-front-api-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.ElkFrontApiServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElkOrderDubboServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="elk-order-dubbo-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.ElkOrderDubboServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElkTradeDubboServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="elk-trade-dubbo-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.ElkTradeDubboServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.EurekaConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaProviderApplicatipn" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.EurekaProviderApplicatipn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplicatipn" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.EurekaServerApplicatipn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example13Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="example13" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.Example13Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodServcieServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="discovery-gray-route-good-service-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.GoodServcieServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GrayPublishAlibabaGatewayServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gray-publish-gateway-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.GrayPublishAlibabaGatewayServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GrayPublishGatewayTrafficServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gray-publish-gateway-traffic-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.GrayPublishGatewayTrafficServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GrayPublishGoodServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gray-publish-good-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.GrayPublishGoodServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GrayPublishLogisticsServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gray-publish-logistics-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.GrayPublishLogisticsServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GrayPublishOrderServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gray-publish-order-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.GrayPublishOrderServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GrayPublishTradeServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gray-publish-trade-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.GrayPublishTradeServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NacosClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="use-nacos-client-nacos-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.NacosClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NacosGrpcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="nacos2.0-grpc-spring-cloud-alibaba-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.NacosGrpcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenAPINacosConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="openapi-nacos-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.OpenAPINacosConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterGrayServer (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="register-gray-route-trade-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.RegisterGrayServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterGrayServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="register-gray-route-order-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.RegisterGrayServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestfulApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="restful-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.cloud.youxia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.RestfulApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RibbonDiscoveryConsumerApplication3" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ribbon-discovery-spring-cloud-alibaba-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.RibbonDiscoveryConsumerDemoApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8466" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RibbonDiscoveryProviderApplication2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ribbon-discovery-spring-cloud-alibaba-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.RibbonDiscoveryProviderDemoApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8079 -Ddubbo.protocol.port=26712" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RibbonDiscoveryProviderApplication3" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ribbon-discovery-spring-cloud-alibaba-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.RibbonDiscoveryProviderDemoApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8069 -Ddubbo.protocol.port=26778" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SoftJraftApacheDerbyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="soft-jraft-apache-derby-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.SoftJraftApacheDerbyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-alibaba-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.SpringCloudConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudShardAlibabaElasticJobApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="elasticjob-shard-spring-cloud-alibaba" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.SpringCloudShardAlibabaElasticJobApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringGatewayServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="discovery-gray-route-gateway-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.SpringGatewayServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrategyGatewayServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="strategy-gateway-alibaba" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.StrategyGatewayServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrategyTradeServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="strategy-trade-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.StrategyTradeServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TradeServiceServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="discovery-gray-route-trade-service-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.TradeServiceServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseRedissonDistributeLockAlibabaServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="use-redisson-distribute-lock-spring-cloud-alibaba" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.UseRedissonDistributeLockAlibabaServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="idempotent-design-user-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.cloud.youxia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.UserClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="user-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.cloud.youxia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.UserServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="idempotent-design-user-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.cloud.youxia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.UserServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="user-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.cloud.youxia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.cloud.youxia.UserServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="9f74cd62-730b-4cb1-a508-9d00130ccc51" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="63675" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.RibbonDiscoveryConsumerApplication3" />
+      <item itemvalue="Spring Boot.RibbonDiscoveryProviderApplication3" />
+      <item itemvalue="Spring Boot.RibbonDiscoveryProviderApplication2" />
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Spring Boot.Example13Application" />
+      <item itemvalue="Spring Boot.NacosGrpcApplication" />
+      <item itemvalue="Spring Boot.SpringCloudConfigApplication" />
+      <item itemvalue="Spring Boot.SoftJraftApacheDerbyApplication" />
+      <item itemvalue="Spring Boot.OpenAPINacosConfigApplication" />
+      <item itemvalue="Spring Boot.BeataSpringCloudAlibabaApplication" />
+      <item itemvalue="Spring Boot.EurekaConsumerApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplicatipn" />
+      <item itemvalue="Spring Boot.EurekaProviderApplicatipn" />
+      <item itemvalue="Spring Boot.GrayPublishOrderServer" />
+      <item itemvalue="Spring Boot.BlueGreenGoodServer" />
+      <item itemvalue="Spring Boot.SpringCloudShardAlibabaElasticJobApplication" />
+      <item itemvalue="Spring Boot.BlueGreenAlibabaGatewayServer" />
+      <item itemvalue="Spring Boot.GrayPublishLogisticsServer" />
+      <item itemvalue="Spring Boot.StrategyGatewayServer" />
+      <item itemvalue="Spring Boot.BlueGreenLogisticsServer" />
+      <item itemvalue="Spring Boot.BlueGreenTradeServer" />
+      <item itemvalue="Spring Boot.RegisterGrayServer" />
+      <item itemvalue="Spring Boot.GoodServcieServer" />
+      <item itemvalue="Spring Boot.GrayPublishTradeServer" />
+      <item itemvalue="Spring Boot.AnalogGatewayTrafficServer" />
+      <item itemvalue="Spring Boot.BlueGreenGatewayTrafficServer" />
+      <item itemvalue="Spring Boot.TradeServiceServer" />
+      <item itemvalue="Spring Boot.GrayPublishAlibabaGatewayServer" />
+      <item itemvalue="Spring Boot.RegisterGrayServer (1)" />
+      <item itemvalue="Spring Boot.NacosClientApplication" />
+      <item itemvalue="Spring Boot.CallDistributeServerAlibabaServer" />
+      <item itemvalue="Spring Boot.StrategyTradeServer" />
+      <item itemvalue="Spring Boot.GrayPublishGoodServer" />
+      <item itemvalue="Spring Boot.BlueGreenOrderServer" />
+      <item itemvalue="Spring Boot.Application (1)" />
+      <item itemvalue="Spring Boot.GrayPublishGatewayTrafficServer" />
+      <item itemvalue="Spring Boot.DynamicConfigServer" />
+      <item itemvalue="Spring Boot.UseRedissonDistributeLockAlibabaServer" />
+      <item itemvalue="Spring Boot.SpringGatewayServer" />
+      <item itemvalue="Spring Boot.ElkOrderDubboServer" />
+      <item itemvalue="Spring Boot.ElkTradeDubboServer" />
+      <item itemvalue="Spring Boot.ElkFrontApiServer" />
+      <item itemvalue="Spring Boot.Application (2)" />
+      <item itemvalue="Spring Boot.UserServerApplication" />
+      <item itemvalue="Spring Boot.UserClientApplication" />
+      <item itemvalue="Spring Boot.RestfulApiApplication" />
+      <item itemvalue="Spring Boot.UserServerApplication (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.UserServerApplication (1)" />
+        <item itemvalue="Spring Boot.UserServerApplication" />
+        <item itemvalue="Spring Boot.RestfulApiApplication" />
+        <item itemvalue="Spring Boot.Application (2)" />
+        <item itemvalue="Spring Boot.UserClientApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75e40a41-9b0f-4c24-b6ff-a6462b480e2c" name="Default Changelist" comment="" />
+      <created>1615515933449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615515933449</updated>
+      <workItem from="1615515934836" duration="3552000" />
+      <workItem from="1615522605110" duration="280000" />
+      <workItem from="1615522931782" duration="4184000" />
+      <workItem from="1615528178828" duration="8140000" />
+      <workItem from="1615566232240" duration="9358000" />
+      <workItem from="1615668985017" duration="9352000" />
+      <workItem from="1615691983736" duration="3558000" />
+      <workItem from="1615705670167" duration="4033000" />
+      <workItem from="1615713667156" duration="531000" />
+      <workItem from="1615714258681" duration="3261000" />
+      <workItem from="1615718934231" duration="5422000" />
+      <workItem from="1615727083555" duration="6483000" />
+      <workItem from="1615794549907" duration="2037000" />
+      <workItem from="1615866011377" duration="1981000" />
+      <workItem from="1615905681585" duration="593000" />
+      <workItem from="1615961710131" duration="596000" />
+      <workItem from="1616120629395" duration="650000" />
+      <workItem from="1616233365309" duration="35313000" />
+      <workItem from="1616503936103" duration="594000" />
+      <workItem from="1616506618203" duration="587000" />
+      <workItem from="1616559547891" duration="593000" />
+      <workItem from="1616586316193" duration="594000" />
+      <workItem from="1616611984690" duration="17195000" />
+      <workItem from="1616748477321" duration="11213000" />
+      <workItem from="1617081390990" duration="307000" />
+      <workItem from="1617081792065" duration="2022000" />
+      <workItem from="1617084199947" duration="5048000" />
+      <workItem from="1617089743515" duration="12508000" />
+      <workItem from="1617108506587" duration="15983000" />
+      <workItem from="1617181775914" duration="2705000" />
+      <workItem from="1617184656296" duration="8261000" />
+      <workItem from="1617238961912" duration="4153000" />
+      <workItem from="1617531397170" duration="3213000" />
+      <workItem from="1617637227703" duration="236000" />
+      <workItem from="1617638432962" duration="3774000" />
+      <workItem from="1617671453299" duration="1759000" />
+      <workItem from="1617673321209" duration="36000" />
+      <workItem from="1617673433679" duration="4625000" />
+      <workItem from="1617679636132" duration="2001000" />
+      <workItem from="1617682028340" duration="4151000" />
+      <workItem from="1617693734300" duration="9810000" />
+      <workItem from="1617705878229" duration="2360000" />
+      <workItem from="1617711279064" duration="9454000" />
+      <workItem from="1617864840131" duration="9567000" />
+      <workItem from="1617972044942" duration="2724000" />
+      <workItem from="1618058223860" duration="1476000" />
+      <workItem from="1618109806745" duration="288000" />
+      <workItem from="1618161460431" duration="650000" />
+      <workItem from="1618275787717" duration="857000" />
+      <workItem from="1618368593835" duration="711000" />
+      <workItem from="1618377245427" duration="940000" />
+      <workItem from="1618379936884" duration="18692000" />
+      <workItem from="1618432933307" duration="1969000" />
+      <workItem from="1618435718544" duration="377000" />
+      <workItem from="1618436508260" duration="541000" />
+      <workItem from="1618437334696" duration="2873000" />
+      <workItem from="1618442091310" duration="117000" />
+      <workItem from="1618474715720" duration="444000" />
+      <workItem from="1618475370882" duration="3308000" />
+      <workItem from="1618487308292" duration="52000" />
+      <workItem from="1618488452876" duration="1398000" />
+      <workItem from="1618490287600" duration="3907000" />
+      <workItem from="1618499992756" duration="1100000" />
+      <workItem from="1618505652348" duration="616000" />
+      <workItem from="1618506400888" duration="113000" />
+      <workItem from="1618507435369" duration="1096000" />
+      <workItem from="1618510343601" duration="434000" />
+      <workItem from="1618511287405" duration="33000" />
+      <workItem from="1618545045588" duration="537000" />
+      <workItem from="1618545994187" duration="85000" />
+      <workItem from="1618547071452" duration="1328000" />
+      <workItem from="1618551570508" duration="3551000" />
+      <workItem from="1618562510720" duration="17000" />
+      <workItem from="1618570245225" duration="186000" />
+      <workItem from="1618570543859" duration="158000" />
+      <workItem from="1618571191402" duration="568000" />
+      <workItem from="1618620754660" duration="619000" />
+      <workItem from="1618632071717" duration="16000" />
+      <workItem from="1618657587978" duration="2890000" />
+      <workItem from="1618803856094" duration="640000" />
+      <workItem from="1618999696450" duration="2288000" />
+      <workItem from="1619006170559" duration="4508000" />
+      <workItem from="1619059741837" duration="90000" />
+      <workItem from="1619078313344" duration="47000" />
+      <workItem from="1619079658448" duration="44000" />
+      <workItem from="1619081610666" duration="70000" />
+      <workItem from="1619082223165" duration="403000" />
+      <workItem from="1619101100108" duration="31000" />
+      <workItem from="1619110858859" duration="665000" />
+      <workItem from="1619141595525" duration="17000" />
+      <workItem from="1619231906694" duration="1137000" />
+      <workItem from="1619233663291" duration="63000" />
+      <workItem from="1619322453247" duration="205000" />
+      <workItem from="1620628338415" duration="1661000" />
+      <workItem from="1620697640668" duration="227000" />
+      <workItem from="1620721357763" duration="720000" />
+      <workItem from="1620958397030" duration="18000" />
+      <workItem from="1621162245179" duration="1483000" />
+      <workItem from="1621298775016" duration="205000" />
+      <workItem from="1621299046579" duration="4958000" />
+      <workItem from="1621309208075" duration="2980000" />
+      <workItem from="1621390546312" duration="2750000" />
+      <workItem from="1621405571462" duration="344000" />
+      <workItem from="1621406274547" duration="432000" />
+      <workItem from="1621408552116" duration="100000" />
+      <workItem from="1621819880458" duration="948000" />
+      <workItem from="1621826838616" duration="583000" />
+      <workItem from="1621876214885" duration="40000" />
+      <workItem from="1621994801058" duration="83000" />
+      <workItem from="1622009277788" duration="1252000" />
+      <workItem from="1622017693323" duration="590000" />
+      <workItem from="1622018656934" duration="1009000" />
+      <workItem from="1622021668235" duration="3914000" />
+      <workItem from="1622172760147" duration="30000" />
+      <workItem from="1622182921756" duration="23000" />
+      <workItem from="1623053739815" duration="526000" />
+      <workItem from="1623570811135" duration="1426000" />
+      <workItem from="1623768374609" duration="116000" />
+      <workItem from="1626229080245" duration="1118000" />
+      <workItem from="1626232932246" duration="606000" />
+      <workItem from="1626245269772" duration="1776000" />
+      <workItem from="1626674757052" duration="343000" />
+      <workItem from="1626687328429" duration="324000" />
+      <workItem from="1626744953322" duration="815000" />
+      <workItem from="1626966863499" duration="1478000" />
+      <workItem from="1626978348216" duration="2296000" />
+      <workItem from="1627032360968" duration="2296000" />
+      <workItem from="1627045314375" duration="166000" />
+      <workItem from="1627048144109" duration="86000" />
+      <workItem from="1627072957619" duration="832000" />
+      <workItem from="1627076846428" duration="43000" />
+      <workItem from="1627097882782" duration="94000" />
+      <workItem from="1627130876754" duration="687000" />
+      <workItem from="1627150073504" duration="130000" />
+      <workItem from="1627824472761" duration="136000" />
+      <workItem from="1627824819133" duration="128000" />
+      <workItem from="1627960092370" duration="3023000" />
+      <workItem from="1628070357439" duration="198000" />
+      <workItem from="1628217956261" duration="191000" />
+      <workItem from="1628734228817" duration="135000" />
+      <workItem from="1628762060017" duration="303000" />
+      <workItem from="1628786819243" duration="100000" />
+      <workItem from="1628795709787" duration="748000" />
+      <workItem from="1628799462867" duration="302000" />
+      <workItem from="1629155849675" duration="409000" />
+      <workItem from="1630832824654" duration="787000" />
+      <workItem from="1631084714538" duration="261000" />
+      <workItem from="1636767307222" duration="2412000" />
+      <workItem from="1638771186905" duration="790000" />
+      <workItem from="1638784229411" duration="52000" />
+      <workItem from="1638786285420" duration="2333000" />
+      <workItem from="1639531102686" duration="845000" />
+      <workItem from="1639551804399" duration="3128000" />
+      <workItem from="1639646382853" duration="787000" />
+      <workItem from="1639650805651" duration="292000" />
+      <workItem from="1639705884092" duration="865000" />
+      <workItem from="1640406441701" duration="732000" />
+      <workItem from="1640407246210" duration="1602000" />
+      <workItem from="1640605669559" duration="24932000" />
+      <workItem from="1642699718716" duration="984000" />
+      <workItem from="1645140468880" duration="2395000" />
+      <workItem from="1645170498778" duration="10172000" />
+      <workItem from="1645427370363" duration="5916000" />
+      <workItem from="1645437663813" duration="1199000" />
+      <workItem from="1645496069584" duration="147000" />
+      <workItem from="1646120349763" duration="2845000" />
+      <workItem from="1646623403872" duration="13253000" />
+      <workItem from="1646664838463" duration="2947000" />
+      <workItem from="1646793094108" duration="2006000" />
+      <workItem from="1646796615300" duration="17000" />
+      <workItem from="1646803639250" duration="1436000" />
+      <workItem from="1646817228260" duration="589000" />
+      <workItem from="1646885980088" duration="784000" />
+      <workItem from="1647827293927" duration="1885000" />
+      <workItem from="1647831810394" duration="153000" />
+      <workItem from="1647843549545" duration="93000" />
+      <workItem from="1647845808118" duration="610000" />
+      <workItem from="1647847005760" duration="1938000" />
+      <workItem from="1647850845473" duration="597000" />
+      <workItem from="1647867015447" duration="10000" />
+      <workItem from="1648289973094" duration="21000" />
+      <workItem from="1648290322343" duration="3107000" />
+      <workItem from="1649944387868" duration="32000" />
+      <workItem from="1650786707857" duration="67000" />
+      <workItem from="1650787360882" duration="593000" />
+      <workItem from="1651108345502" duration="102000" />
+      <workItem from="1651835561953" duration="1223000" />
+      <workItem from="1652115355004" duration="2124000" />
+      <workItem from="1652127617572" duration="2138000" />
+      <workItem from="1652231848349" duration="739000" />
+      <workItem from="1652282344583" duration="248000" />
+      <workItem from="1652284230737" duration="815000" />
+      <workItem from="1652321422369" duration="224000" />
+      <workItem from="1652321728595" duration="1940000" />
+      <workItem from="1652624093384" duration="112000" />
+      <workItem from="1652799572081" duration="168000" />
+      <workItem from="1654000578524" duration="1013000" />
+      <workItem from="1654779416659" duration="1286000" />
+      <workItem from="1654956834110" duration="701000" />
+      <workItem from="1654982851302" duration="966000" />
+      <workItem from="1654994980750" duration="304000" />
+      <workItem from="1655015933465" duration="28000" />
+      <workItem from="1658666541474" duration="1025000" />
+      <workItem from="1658714810518" duration="1156000" />
+      <workItem from="1658969606797" duration="1587000" />
+      <workItem from="1661092217305" duration="6313000" />
+      <workItem from="1666273840779" duration="3817000" />
+      <workItem from="1669596483488" duration="3656000" />
+      <workItem from="1669692957390" duration="1274000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1669693437942">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1669693437942" />
+    <state width="1493" height="415" key="GridCell.Tab.0.bottom" timestamp="1666534500091">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="415" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1666534500091" />
+    <state width="1493" height="415" key="GridCell.Tab.0.center" timestamp="1666534500091">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="415" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1666534500091" />
+    <state width="1493" height="415" key="GridCell.Tab.0.left" timestamp="1666534500090">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="415" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1666534500090" />
+    <state width="1493" height="415" key="GridCell.Tab.0.right" timestamp="1666534500091">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="415" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1666534500091" />
+    <state width="1493" height="415" key="GridCell.Tab.1.bottom" timestamp="1666534500091">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="415" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1666534500091" />
+    <state width="1493" height="415" key="GridCell.Tab.1.center" timestamp="1666534500091">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="415" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1666534500091" />
+    <state width="1493" height="415" key="GridCell.Tab.1.left" timestamp="1666534500091">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="415" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1666534500091" />
+    <state width="1493" height="415" key="GridCell.Tab.1.right" timestamp="1666534500091">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="415" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1666534500091" />
+    <state x="270" y="57" key="SettingsEditor" timestamp="1669693188116">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1669693188116" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1669693576815">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1669693576815" />
+    <state x="573" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1669693311065">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="573" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1669693311065" />
+    <state x="468" y="144" width="742" height="536" key="find.popup" timestamp="1661094615681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="468" y="144" width="742" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1661094615681" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chapterthree/实例4/src/main/java/com/alibaba/cloud/youxia/config/SwaggerApiConfig.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chapterthree/实例4/src/main/java/com/alibaba/cloud/youxia/config/SwaggerApiConfig.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chapterthree/实例4/src/main/java/com/alibaba/cloud/youxia/config/SwaggerApiConfig.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../apache-maven-3.6.3/res/org/springframework/spring-web/5.2.8.RELEASE/spring-web-5.2.8.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java</url>
+          <line>737</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chapterfive/openapi-nacos-config/src/main/java/com/alibaba/cloud/youxia/OpenAPINacosConfigApplication.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chapterfive/soft-jraft-apache-derby-config/src/main/java/com/alibaba/cloud/youxia/ConfigReader.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../apache-maven-3.6.3/res/com/alibaba/cloud/spring-cloud-starter-dubbo/2.2.3.RELEASE/spring-cloud-starter-dubbo-2.2.3.RELEASE-sources.jar!/com/alibaba/cloud/dubbo/metadata/repository/DubboServiceMetadataRepository.java</url>
+          <line>224</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chapterfour/nacos-sync/eureka-provider/src/main/java/com/alibaba/cloud/youxia/EurekaProviderApplicatipn.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chapterthree/multi-environment-deployment/user-server/src/main/java/com/alibaba/cloud/youxia/service/OrderServiceImpl.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/restful_practice$DistributedServerApplication.ic" NAME="DistributedServerApplication Coverage Results" MODIFIED="1645428568431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.alibaba.cloud.youxia.*</FILTER>
+    </SUITE>
   </component>
 </project>
